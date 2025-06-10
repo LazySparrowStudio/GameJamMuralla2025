@@ -1,0 +1,30 @@
+# Unreal Engine folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore project-specific files
+*.suo
+*.user
+*.userprefs
+*.log
+*.pdb
+*.opendb
+*.VC.db
+*.sdf
+*.opensdf
+
+# Ignore backup and autosave
+*.autosave
+*.backup
+*.tmp
+
+# Ignore virtualized assets (if using UE5)
+.vaultcache/

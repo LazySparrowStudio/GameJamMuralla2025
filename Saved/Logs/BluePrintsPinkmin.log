@@ -1157,3 +1157,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.06.10-08.26.54:397][ 13]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9.683727, Update Interval: 306.103088
 [2025.06.10-08.28.31:764][697]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.06.10-08.28.31:893][698]LogDerivedDataCache: C:/Users/manup/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.06.10-08.30.07:251][984]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.06.10-08.30.17:500][ 14]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
