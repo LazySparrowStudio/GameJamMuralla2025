@@ -1,3 +1,35 @@
+<<<<<<< HEAD
+# Unreal Engine folders to ignore
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vscode/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore project-specific files
+*.suo
+*.user
+*.userprefs
+*.log
+*.pdb
+*.opendb
+*.VC.db
+*.sdf
+*.opensdf
+
+# Ignore backup and autosave
+*.autosave
+*.backup
+*.tmp
+
+# Ignore virtualized assets (if using UE5)
+.vaultcache/
+=======
 # Visual Studio 2015 user specific files
 .vs/
 
@@ -73,3 +105,4 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+>>>>>>> 85224b387ba4b31a5cfb4184f3031095d63fb50c
